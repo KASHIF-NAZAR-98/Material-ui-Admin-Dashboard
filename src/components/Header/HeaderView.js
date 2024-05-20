@@ -37,7 +37,7 @@ const messages = [
     id: 1,
     variant: "success",
     name: "Lloyd Brown",
-    message: "Check out my new Dashboard",
+    message: "Check out my new ",
     time: "9:18"
   },
   {
